@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.287fd335.css",
+    "main.js": "/static/js/main.dae7084f.js",
+    "static/js/787.47fb2afb.chunk.js": "/static/js/787.47fb2afb.chunk.js",
+    "static/media/hero-banner.png": "/static/media/hero-banner.eec598253cec8f46e54f.png",
+    "static/media/ethereum-1-logo-png-transparent.png": "/static/media/ethereum-1-logo-png-transparent.a62c0e55f49cf533072d.png",
+    "static/media/app-banner.png": "/static/media/app-banner.fed6140498fdfd4c4094.png",
+    "static/media/about-banner.png": "/static/media/about-banner.c614244242df1801884f.png",
+    "static/media/Bitcoin-Logo.png": "/static/media/Bitcoin-Logo.869c2ca1353d8c51edbe.png",
+    "static/media/Tether_USDT.png": "/static/media/Tether_USDT.c1d587669942a5e9bc47.png",
+    "static/media/binance-logo.png": "/static/media/binance-logo.ddefc4ca2aabb89b7006.png",
+    "static/media/favicon.svg": "/static/media/favicon.cc48541156fa77f72fe38994204fdd0b.svg",
+    "index.html": "/index.html",
+    "main.287fd335.css.map": "/static/css/main.287fd335.css.map",
+    "main.dae7084f.js.map": "/static/js/main.dae7084f.js.map",
+    "787.47fb2afb.chunk.js.map": "/static/js/787.47fb2afb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.287fd335.css",
+    "static/js/main.dae7084f.js"
+  ]
+}
