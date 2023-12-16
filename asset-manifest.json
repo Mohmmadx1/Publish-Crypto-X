@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.287fd335.css",
-    "main.js": "/static/js/main.dae7084f.js",
+    "main.css": "/static/css/main.4c00f3a7.css",
+    "main.js": "/static/js/main.21d48642.js",
     "static/js/787.47fb2afb.chunk.js": "/static/js/787.47fb2afb.chunk.js",
     "static/media/hero-banner.png": "/static/media/hero-banner.eec598253cec8f46e54f.png",
     "static/media/ethereum-1-logo-png-transparent.png": "/static/media/ethereum-1-logo-png-transparent.a62c0e55f49cf533072d.png",
@@ -12,12 +12,12 @@
     "static/media/binance-logo.png": "/static/media/binance-logo.ddefc4ca2aabb89b7006.png",
     "static/media/favicon.svg": "/static/media/favicon.cc48541156fa77f72fe38994204fdd0b.svg",
     "index.html": "/index.html",
-    "main.287fd335.css.map": "/static/css/main.287fd335.css.map",
-    "main.dae7084f.js.map": "/static/js/main.dae7084f.js.map",
+    "main.4c00f3a7.css.map": "/static/css/main.4c00f3a7.css.map",
+    "main.21d48642.js.map": "/static/js/main.21d48642.js.map",
     "787.47fb2afb.chunk.js.map": "/static/js/787.47fb2afb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.287fd335.css",
-    "static/js/main.dae7084f.js"
+    "static/css/main.4c00f3a7.css",
+    "static/js/main.21d48642.js"
   ]
 }
